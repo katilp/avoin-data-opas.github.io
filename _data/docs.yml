@@ -1,12 +1,16 @@
 - name: lyhyesti
   title: Lyhesti
+  title-en: Quickstart
   
 - name: jupyter
   title: Jupyter notebook -ympäristö
+  titel-en: Jupyter notebooks
   
 - name: python
   title: Pohjatiedot python-kielestä
+  title-en: Basic python
   
 - name: data
   title: Alkuun datan kanssa
+  title: Getting started with data
   
