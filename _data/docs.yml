@@ -1,12 +1,12 @@
-- topic: lyhyesti
+- name: lyhyesti
   title: Lyhesti
   
-- topic: jupyter
+- name: jupyter
   title: Jupyter notebook -ympäristö
   
-- topic: python
+- name: python
   title: Pohjatiedot python-kielestä
   
-- topic: data
+- name: data
   title: Alkuun datan kanssa
   
