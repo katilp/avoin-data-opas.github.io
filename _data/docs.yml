@@ -1,22 +1,22 @@
 topic: lyhyesti
 - name: materiaalit
-  title: Missä materiaalit
+  title: "Missä materiaalit"
 
 - name: avaa
-  title: Miten avaan sivun
+  title: "Miten avaan sivun"
 
 - name: muokkaa
-  title: Miten muokkaan sivua
+  title: "Miten muokkaan sivua"
   
 - name: luo
-  title: Miten luon oman sivun
+  title: "Miten luon oman sivun"
 
 - name: tee-ja-tallenna
-  title: Miten tallennan vastaukset
+  title: "Miten tallennan vastaukset"
 
 topic: tools
 - name: notebook
-  title: Jupyter notebook -alusta
+  title: "Jupyter notebook -alusta"
   
 - name: python
-  title: Python 
+  title: "Python" 
