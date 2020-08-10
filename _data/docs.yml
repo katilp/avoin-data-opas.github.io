@@ -4,7 +4,7 @@
   
 - name: jupyter
   title: Jupyter notebook -ympäristö
-  titel-en: Jupyter notebooks
+  title-en: Jupyter notebooks
   
 - name: python
   title: Pohjatiedot python-kielestä
@@ -12,5 +12,5 @@
   
 - name: data
   title: Alkuun datan kanssa
-  title: Getting started with data
+  title-en: Getting started with data
   
