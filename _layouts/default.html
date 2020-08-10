@@ -20,9 +20,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.github.is_user_page %}
-           <p class="view"><a href="{{ "/" | absolute_url }}lyhyesti">Lyhyesti</a></p>
-        {% endif %}
+        {% for topic in site.data.docs %}
+                <h3><a href="{{ "/" | absolute_url }}{{ topic.name }}">{{ topic.title }}</a></h3> <!--This comes from _this_ repo's _data/docs.yml-->
+        {% endfor %}
       </header>  
       
       <section>
