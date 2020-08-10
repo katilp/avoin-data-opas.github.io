@@ -14,14 +14,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}"> Open data in education</a></h1>
+        <h1><a href="{{ "/" | base_url }}"> Open data in education</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         {% for topic in site.data.docs %}
-                <h3><a href="{{ "/" | absolute_url }}{{ topic.name }}">{{ topic.title }}</a></h3> <!--This comes from _this_ repo's _data/docs.yml-->
+                <h3><a href="{{ "/" | base_url }}{{ topic.name }}">{{ topic.title }}</a></h3> <!--This comes from _this_ repo's _data/docs.yml-->
         {% endfor %}
       </header>  
       
