@@ -1,22 +1,24 @@
-topic: lyhyesti
-- name: materiaalit
-  title: "Missä materiaalit"
+- topic: lyhyesti
+  subtopic:
+  - name: materiaalit
+    title: "Missä materiaalit"
 
-- name: avaa
-  title: "Miten avaan sivun"
+  - name: avaa
+    title: "Miten avaan sivun"
 
-- name: muokkaa
-  title: "Miten muokkaan sivua"
+  - name: muokkaa
+    title: "Miten muokkaan sivua"
   
-- name: luo
-  title: "Miten luon oman sivun"
+  - name: luo
+    title: "Miten luon oman sivun"
 
-- name: tee-ja-tallenna
-  title: "Miten tallennan vastaukset"
+  - name: tee-ja-tallenna
+    title: "Miten tallennan vastaukset"
 
-topic: tools
-- name: notebook
-  title: "Jupyter notebook -alusta"
+- topic: tools
+  subtopic:
+  - name: notebook
+    title: "Jupyter notebook -alusta"
   
-- name: python
-  title: "Python" 
+  - name: python
+    title: "Python" 
