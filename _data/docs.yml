@@ -1,24 +1,12 @@
 - topic: lyhyesti
-  subtopic:
-  - name: materiaalit
-    title: "Missä materiaalit"
-
-  - name: avaa
-    title: "Miten avaan sivun"
-
-  - name: muokkaa
-    title: "Miten muokkaan sivua"
+  title: Lyhesti
   
-  - name: luo
-    title: "Miten luon oman sivun"
-
-  - name: tee-ja-tallenna
-    title: "Miten tallennan vastaukset"
-
-- topic: tools
-  subtopic:
-  - name: notebook
-    title: "Jupyter notebook -alusta"
+- topic: jupyter
+  title: Jupyter notebook -ympäristö
   
-  - name: python
-    title: "Python" 
+- topic: python
+  title: Pohjatiedot python-kielestä
+  
+- topic: data
+  title: Alkuun datan kanssa
+  
